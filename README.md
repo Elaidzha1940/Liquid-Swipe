@@ -1,4 +1,4 @@
-⌨️ Liquid-Swipe. 
+⌨️ Liquid-Swipe
 ======
 
 ------
